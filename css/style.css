@@ -944,7 +944,7 @@ img{
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 50%;
     cursor: pointer;
-    padding-top: 30px;
+    
 }
 .modal-close-svg{
     width: 30px;
@@ -967,8 +967,8 @@ img{
     border: 1px solid rgba(33, 33, 33, 0.2);
     box-sizing: border-box;
     border-radius: 4px;
-    padding-bottom: 10px;
-    padding-top: 4px;
+    margin-bottom: 10px;
+    margin-top: 4px;
 
 }
 .contact-form-btn{
@@ -980,6 +980,7 @@ img{
     background-color: var(--accent-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
+    
     
     
 }
@@ -1045,7 +1046,8 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 
 }
 
